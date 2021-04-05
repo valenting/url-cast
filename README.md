@@ -2,3 +2,5 @@ This tool uses the [nodecastor library](https://github.com/vincentbernat/nodecas
 Just pass it the chromecast's IP and a URL.
 
 `node cast.js <IP> <URL>`
+
+Remember to run `npm install` to download the dependencies.
